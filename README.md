@@ -20,3 +20,8 @@ npm run dev
 Open the link it prints. Demo mode turns on whenever `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` are not set.
 
 Built with React, Vite, TypeScript and a PWA (installable from Safari: Share, then Add to Home Screen).
+
+## Update the live demo
+```bash
+./deploy.sh
+```
