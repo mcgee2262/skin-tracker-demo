@@ -1,0 +1,37 @@
+{
+  "_note": "On first login, if the user has no skin_products rows, insert these 4 items once for house 'mom' and once for house 'dad'.",
+  "items": [
+    {
+      "name": "CeraVe Renewing SA Cleanser",
+      "use_note": "AM + PM wash",
+      "price_text": "~$16",
+      "url": "https://target.com/p/cerave-renewing-sa-cleanser-12oz/-/A-91383160",
+      "status": "not_purchased",
+      "sort": 1
+    },
+    {
+      "name": "Differin Gel 0.1% (15g)",
+      "use_note": "PM, pea-sized",
+      "price_text": "$14.99",
+      "url": "https://www.target.com/p/differin-adapalene-gel-0-1-acne-treatment-15g/-/A-51346324",
+      "status": "not_purchased",
+      "sort": 2
+    },
+    {
+      "name": "CeraVe AM Moisturizer SPF 30",
+      "use_note": "AM, last step",
+      "price_text": "$14.99",
+      "url": "https://target.com/p/cerave-am-facial-moisturizing-lotion-with-sunscreen-spf-30-3-fl-oz/-/A-14353569",
+      "status": "not_purchased",
+      "sort": 3
+    },
+    {
+      "name": "Cetaphil Moisturizer",
+      "use_note": "PM, after Differin",
+      "price_text": "Owned?",
+      "url": null,
+      "status": "unknown",
+      "sort": 4
+    }
+  ]
+}
